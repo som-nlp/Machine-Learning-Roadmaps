@@ -1,0 +1,84 @@
+Machine Learning Roadmap!!!
+--------------------------------------------------------------------------
+
+1) See for jobs-
+	- LinkedIN
+	- GitHub
+	- Naukari.com
+
+2) Maths!!!!
+	- Statistics and Probability
+	- Linear Algebra and Calculus
+
+3) Programming Language
+	-- Python -> General Purpose(For All)
+	- R -> Statistical Analysis
+
+4) Python Libraries*(Important Libraries)
+	- Numpy
+	- Pandas
+	- Matplotlib
+	- Seaborn
+	- Scikit-Learn
+	- TensorFlow
+	- Keras
+	- NLTK
+	- SpaCy
+	- BeautifulSoup
+
+5) Tools beside these
+	tableau
+	excel
+	*SQL
+
+6) Data Collection
+	*Websites
+	    - Kaggle
+	    - UCI Repository
+	    - Data World
+	    - US Goverment
+	*Web Scrapping*
+		- BeautifulSoup
+	*From APIs*
+
+7) Data Preprocessing
+	- Data Cleaning
+	- Feature Engineering
+	- Feature Selection
+	- Data Analysis
+
+8) Machine Learning Algorithms-
+	*Regression
+	- Linear Regression
+	- Ridge and Lasso Regression (Regularization)
+	- DecisionTree Regression
+	- *Random Forest Regression*
+	
+	*Classification
+	- Logistic Regression
+	- DecisionTree Classifier
+	- Random Forest Classifier
+	- KNN
+	- Neual Networks
+
+**Dimensionality Reduction(PCA)**
+
+9) End-to-End Project Deployment
+	- Streamlit
+	- Flask
+	- Django
+	- Heroku
+	- AWS
+	- Azure
+	- Google Cloud
+
+
+	   ***APPLY FOR JOBS****
+
+
+**Resources**
+	- **CampusX** - YouTube
+	- **Indian AI Production**
+	- **Krish Naik** - YouTube
+	- **INeuron** - YouTube and OTP Platform
+	- **Parth Aland** - Phone .: +9158839349/8275458272
